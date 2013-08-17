@@ -1,0 +1,5 @@
+name: SkyGridTeleport
+version: 0.1
+main: me.creeper96.skygrid.Main
+description: Questo plugin permette di spawnare random nel server sopra un cubo in skygrid
+depends: [Essentials]
